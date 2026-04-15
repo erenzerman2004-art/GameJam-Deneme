@@ -23,8 +23,14 @@
   "name":"Gamejam-Deneme",
   "resources":[
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
+<<<<<<< Updated upstream
+=======
+    {"id":{"name":"fsdsfdsfdfsd","path":"objects/fsdsfdsfdfsd/fsdsfdsfdfsd.yy",},},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"pacman","path":"objects/pacman/pacman.yy",},},
     {"id":{"name":"ss","path":"objects/ss/ss.yy",},},
+    {"id":{"name":"yazi","path":"objects/yazi/yazi.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"berkay","path":"sprites/berkay/berkay.yy",},},
     {"id":{"name":"delta","path":"sprites/delta/delta.yy",},},
