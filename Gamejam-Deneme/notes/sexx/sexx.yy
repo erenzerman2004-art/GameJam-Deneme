@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"sexx",
+  "name":"sexx",
+  "parent":{
+    "name":"Eren",
+    "path":"folders/Eren.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
