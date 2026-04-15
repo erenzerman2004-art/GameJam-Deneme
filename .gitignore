@@ -1,0 +1,9 @@
+# GameMaker Temel Ignore Listesi
+*.lock
+*.stackdump
+.resource_order
+*.old
+
+# İşletim Sistemi Kalıntıları
+.DS_Store
+Thumbs.db
