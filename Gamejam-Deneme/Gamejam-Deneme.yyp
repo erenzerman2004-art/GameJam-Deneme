@@ -24,8 +24,15 @@
   "resources":[
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
     {"id":{"name":"fsdsfdsfdfsd","path":"objects/fsdsfdsfdfsd/fsdsfdsfdfsd.yy",},},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
+>>>>>>> Stashed changes
+=======
+    {"id":{"name":"sexx","path":"notes/sexx/sexx.yy",},},
+    {"id":{"name":"fsdsfdsfdfsd","path":"objects/fsdsfdsfdfsd/fsdsfdsfdfsd.yy",},},
+    {"id":{"name":"gui","path":"objects/gui/gui.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
 >>>>>>> Stashed changes
     {"id":{"name":"pacman","path":"objects/pacman/pacman.yy",},},
