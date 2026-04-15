@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":5,
   "parent":{
-    "name":"Gamejam-Deneme",
-    "path":"Gamejam-Deneme.yyp",
+    "name":"Eren",
+    "path":"folders/Eren.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
