@@ -22,18 +22,23 @@
   },
   "name":"Gamejam-Deneme",
   "resources":[
+    {"id":{"name":"fsdsfdsfdfsd","path":"objects/fsdsfdsfdfsd/fsdsfdsfdfsd.yy",},},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"pacman","path":"objects/pacman/pacman.yy",},},
     {"id":{"name":"ss","path":"objects/ss/ss.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"berkay","path":"sprites/berkay/berkay.yy",},},
     {"id":{"name":"delta","path":"sprites/delta/delta.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
