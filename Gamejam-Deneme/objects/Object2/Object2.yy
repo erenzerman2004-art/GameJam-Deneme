@@ -6,8 +6,8 @@
   "name":"Object2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Gamejam-Deneme",
-    "path":"Gamejam-Deneme.yyp",
+    "name":"Eren",
+    "path":"folders/Eren.yy",
   },
   "parentObjectId":null,
   "persistent":false,

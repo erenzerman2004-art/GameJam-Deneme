@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"fsdsfdsfdfsd",
-  "eventList":[],
+  "%Name":"gui",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"fsdsfdsfdfsd",
+  "name":"gui",
   "overriddenProperties":[],
   "parent":{
     "name":"Eren",
